@@ -1,7 +1,5 @@
 # service-ownership
-## Digital Services service ownership
-
-### Objectives 2018/19
+## Digital Services service ownership objectives 2018/19
 
 #### Establish ourselves as service owners
 
