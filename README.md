@@ -4,7 +4,6 @@
 ### Objectives 2018/19
 
 #### Establish ourselves as service owners
-o	Focus for 2018/2019:
 
 	Understand our users, their needs and expectations.
 
